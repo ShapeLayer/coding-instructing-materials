@@ -1,0 +1,6 @@
+[submodule "introduction-to-java"]
+	path = introduction-to-java
+	url = https://github.com/so-purple/introduction-to-java
+[submodule "problem-solving-with-python-for-middle-schooler"]
+	path = problem-solving-with-python-for-middle-schooler
+	url = https://github.com/so-purple/problem-solving-with-python-for-middle-schooler
